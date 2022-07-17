@@ -1,8 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in hashmap:
-                return [i, hashmap[complement]]
-            hashmap[nums[i]] = i
+        dictionary = dict()
+        pos = 0
+        while pos < len(nums):
+            if (target - nums[pos]) not in dictionary:
+                dictionary[nums[pos]] = pos
+                pos += 1
+            else:
+                return [dictionary[target - nums[pos]], pos]

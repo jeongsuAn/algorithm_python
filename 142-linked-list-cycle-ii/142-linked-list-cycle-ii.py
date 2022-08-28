@@ -12,7 +12,6 @@ class Solution:
             return None
         while tempNode.next != None:
             if tempNode in nodeList:
-                print(nodeList)
                 return tempNode
             else:
                 nodeList.append(tempNode)

@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jeongsuAn/algorithm_python/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/jeongsuAn/algorithm_python/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/jeongsuAn/algorithm_python/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jeongsuAn/algorithm_python/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jeongsuAn/algorithm_python/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jeongsuAn/algorithm_python/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

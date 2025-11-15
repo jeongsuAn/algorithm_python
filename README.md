@@ -59,6 +59,7 @@
 | [0039-combination-sum](https://github.com/jeongsuAn/algorithm_python/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/jeongsuAn/algorithm_python/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/jeongsuAn/algorithm_python/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/jeongsuAn/algorithm_python/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jeongsuAn/algorithm_python/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/jeongsuAn/algorithm_python/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |

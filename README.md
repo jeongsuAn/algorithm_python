@@ -60,6 +60,7 @@
 | [0056-merge-intervals](https://github.com/jeongsuAn/algorithm_python/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/jeongsuAn/algorithm_python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jeongsuAn/algorithm_python/tree/master/0136-single-number) |
+| [0393-utf-8-validation](https://github.com/jeongsuAn/algorithm_python/tree/master/0393-utf-8-validation) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jeongsuAn/algorithm_python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jeongsuAn/algorithm_python/tree/master/0136-single-number) |
+| [0393-utf-8-validation](https://github.com/jeongsuAn/algorithm_python/tree/master/0393-utf-8-validation) |
 ## Sorting
 |  |
 | ------- |
